@@ -5,10 +5,16 @@ You have the option to either choose a random puzzle template or create a manual
 The objective of the game is to guess the hidden letters in the word, with a maximum of 3 wrong guesses allowed.
 Put your guessing skills to the test and see if you can uncover the hidden word in this exciting word puzzle game written in Java.
 
-Running the game in eclipse:
-add pic
+In order to run this program in eclips:
+1. Riht click on WordPuzzle.java in your Project Explorer erea:
+2. Go to "Run As" -> "Run Configurations"
+<img src=https://user-images.githubusercontent.com/112472485/218077553-8f22f7cc-27c7-4ba2-85cb-49e4feed3558.png width="400">
 
-'''
+3. Go to "Arguments" tab and enter the word to guess in the "Program arguments" area and clic "Run"
+<img src=https://user-images.githubusercontent.com/112472485/218077594-3dbf236d-bd82-41ed-8f3f-db356ea86710.JPG width="400">
+
+4. Choose the game settings and play :
+```
 --- Settings stage ---
 Choose a (1) random or (2) manual template:
 1
@@ -39,9 +45,9 @@ elephan_
 Enter your guess:
 t
 Congratulations! You solved the puzzle!
-'''
+```
 
-Here are a few suggestions for a word to guess in a word puzzle game:
+Here are a few suggestions for a word to guess in this word puzzle game:
 
 1. Elephant
 2. Paradise
